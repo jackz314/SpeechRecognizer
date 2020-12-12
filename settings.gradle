@@ -1,0 +1,5 @@
+include ':resample2'
+include ':google-speech-protobuf'
+include ':resample'
+include ':app'
+rootProject.name = "Speech Recognizer"
